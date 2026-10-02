@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Dela+Gothic+One&family=Instrument+Serif:ital@0;1&family=Mea+Culpa&family=MedievalSharp&family=Montserrat:wght@800&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  width: 100%;
+  min-height: 100%;
+}
+
+body {
+  background: #000;
+  font-family: Inter, Arial, sans-serif;
+  color: white;
+}
+
+button {
+  font-family: inherit;
+}
